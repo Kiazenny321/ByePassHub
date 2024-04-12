@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 1
+# ByePassHub > Games | updated April 8
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -13,28 +13,39 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
 #### *Phantom Games:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
 #### 3kh0: [here](#3kh0--recommended)
-#### *Google Site (recommended):* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
+#### *Google Site:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
 #### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
-#### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
+#### Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
-#### 1v1.LOL: [here](#new-1v1lol)
+#### 1v1.LOL (10+): [here](#new-1v1lol)
 #### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
-#### *Lich:* [here](#lich)
-#### NEW Not Games: [here](#new-not-games)
-#### Monkeytype: [here](#new-monkeytype)
-#### Playhydra: [here](#new-playhydra)
-#### Abcya: [here](#abyca)
-#### Hdun: [here](#hdun)
-### Liorxyst: [here](#liorxyst)
-### NEW *Zatoga*: [here](#zatoga)
-### NEW Celery XYZ: [here](#celery-xyz)
-### NEW *Hahamini*: [here](#hahamini)
-### NEW Gessx: [here](#gessx)
-#### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
+#### NEw Plexile Arcade (15+): [here](#plexile-arcade)
+#### Game Hubs with less than 1-2 links:
+- *Lich:* [here](#lich)
+- NEW Not Games: [here](#new-not-games)
+- Monkeytype: [here](#new-monkeytype)
+- Playhydra: [here](#new-playhydra)
+- Abcya: [here](#abyca)
+- Hdun: [here](#hdun)
+- Liorxyst: [here](#liorxyst)
+- NEW *Zatoga*: [here](#zatoga)
+- NEW Celery XYZ: [here](#celery-xyz)
+- NEW *Hahamini*: [here](#hahamini)
+- NEW Gessx: [here](#gessx)
+#### Specific, Single Games like Idle Breakout (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games) 
+
 ---
-**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
-**Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+**Other files:** <br>
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
+**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
+**Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
+**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
+**Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br>
+**Back to MainHub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+
+
+
 ### Be sure to scroll all the way down for ALL links. 
 I've got these links from multiple sources. Like [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
@@ -55,10 +66,16 @@ https://information.potomacriversafetycommittee.org/ <br>
 https://about.cause.potomacriversafetycommittee.org/ <br>
 https://members.board.potomacriversafetycommittee.org/  <br>
 https://checkout.donate.potomacriversafetycommittee.org/ <br>
-##### New tafca.co.uk links
-**NEW!** https://calendar.matches.tafca.co.uk/ <br>
-**NEW!** https://clubs.tafca.co.uk/ <br>
-**NEW!** https://pawn.pieces.tafca.co.uk <br><br>
+**NEW** http://archive.calendar.potomacriversafetycommittee.org/ <br>
+##### tafca.co.uk links
+https://calendar.matches.tafca.co.uk/ <br>
+https://clubs.tafca.co.uk/ <br>
+https://pawn.pieces.tafca.co.uk/ <br>
+**NEW!** https://winter.league.tafca.co.uk/ <br>
+**NEW!** https:// form.contact.tafca.co.uk/ <br>
+**NEW!** https:// chess.moves.tafca.co.uk/ <br>
+**NEW!** https:// calendar.matches.tafca.co.uk/ <br>
+<br>
 **^ Back to [top ^](#table-of-contents)**
 ##### essexregional.org links
 https://form.contact.essexregional.org <br>
@@ -87,7 +104,14 @@ https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
 https://weston-makes-links.mooo.com/ <br>
 https://weston-is-honest.fr.to/ <br>
-**NEW!** https://visit.the.us.to/ <br><br>
+https://visit.the.us.to/ <br>
+**NEW** https://selen-instructions.soapagent.com <br>
+**NEW** https://supportukraine.sanluix.org/ <br>
+**NEW** https://toodles.spanishlearning.com.ar/ <br>
+**NEW** https://old.man.joe.mindhackers.org/ <br>
+**NEW** https://security.from.annaffiare.org/ <br>
+**NEW** https://404.1337.cx/ <br>
+<br>
 **^ Back to [top ^](#table-of-contents)**
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
@@ -186,6 +210,7 @@ https://beiswenger.net/unblocked/ <br>
 ### A1R
 https://iamasweaty.fortnitebuilder.pro/ <br>
 **NEW** https://student-portal.hustlersuniversity.pro/  <br>
+**NEW** https://schoolmath.mmabathoair.co.za/ <br>
 
 ### Phantom Games | RECOMMENDED
 https://freedns.afraid.org.uk.to/ <br>
@@ -221,6 +246,8 @@ https://free.education9.actsministries.org/  <br>
 **NEW!** https://e.tnsmexico.com/  <br> 
 https://9.lusz.one.pl/  <br> 
 **NEW!** https://boringgot.thelmadejager.co.za/ <br>
+**NEW** https://basket.random.one.pl/ <br>
+**NEW** https://humanitiestutoring.celebsplay.com/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -425,6 +452,28 @@ https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/
 ### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
 https://vortexmath.my.canva.site/_password <br>
 
+### Plexile Arcade
+**All of these links are NEW** - Apr 5 <br>
+https://book-opensocial.ranzdompr0jzxymaths.xml.googleusercontent.cause.vc/  <br>
+https://education.disciplinary.design/   <br>
+https://crazy.thunder.com.ve/  <br>
+https://math-homework.funny.cl/  <br>
+https://ball.usercontent.toogoofy.com/  <br> 
+https://new-software-for-tutors.usercontent.toogoofy.com/  <br>
+https://great.clu.bz/  <br>
+https://pa.maze.lol/  <br>  <br>
+
+https://plexilearcade.glitch.me/  <br>
+https://funschoolprojects.glitch.me/ <br>
+https://nweatestingsite.glitch.me/  <br>  <br>
+
+https://algebratutors.onrender.com/  <br>
+https://schoolapplications.onrender.com/  <br>  <br>
+
+https://mytestscores.netlify.app/  <br>
+https://educationalinsights.netlify.app/ <br>  <br>
+
+---
 ### Lich
 https://lichgames.s3.amazonaws.com/index.html <br>
 <br>
