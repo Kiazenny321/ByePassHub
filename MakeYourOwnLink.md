@@ -1,7 +1,7 @@
-# ByePassHub > Making your Own Links | (WIP) last updated Apr 24
+# ByePassHub > Making your Own Links | last updated May 1
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
-**Suggestions?** Click [here](https://forms.gle/FaHsGQxFTnZ6uSvn9)  to fill out a form.
+**Exploit not working? Need help?** Click to fill a [form](https://forms.gle/FaHsGQxFTnZ6uSvn9). With this feedback I will make the instructions easier to understand! <br>
 
  ## Table of Contents:
 + [Deploying via free DNS subdomain](#making-links-via-freedns)
@@ -22,14 +22,14 @@ This files includes a guide on how to make your own unblockers! You can do this 
 ---
 
 ### Making links via freeDNS
-1. Go to https://freedns.afraid.org/
+1. Go to https://freedns.afraid.org/, if it's blocked, try this on another device (you can't put the site through an unblocker, it won't work.)
 2. This is probably your first time, so click "Sign Up for Free." If you already have an account, go to step 5.
 3. Fill out all of the information in the boxes.
 	> For your first and last name, you don't have to put your real name.
 	
 	> For the user ID,  you can put anything, make sure it's unique.
 	
-	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/).
+	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) so you can create more links in the future.
 	
 4. Press sign-up after filling the boxes, and complete the email activation.
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
@@ -44,22 +44,24 @@ This files includes a guide on how to make your own unblockers! You can do this 
 
 | Unblocker   |  Type | IP Destination |
 | ----------- | ----------- | ------- |
-| Abyss     | Web browser|`88.99.136.115`     |
+| Abyss     | Web browser|`5.161.43.35`     |
 | Astroid   | Games, Unblocker, Emulators, Apps|`5.161.68.227`        |
-| Tinf0il    | Unblocker, Games, Apps |`129.213.65.72` | 
 | Artclass | Unblocker, Games, Apps |`193.26.115.218`|
 | Shadow | Web Browser | `104.243.38.18`|
 | Kitty Cat | Proxy, games, apps | `66.94.122.218` |
 | Kazwire |  Proxy, games, apps | `209.222.97.244` |
 | Plexile Arcade | Proxy, games, apps | `216.24.57.1` |
 | Doge Unblocker | Proxy, games, apps | `38.175.196.242`|
+| Interstellar | Proxy, games, apps | `5.161.66.1`|
 | Rammerhead | Web Browser | `108.181.32.77`|
 | Phantom Games | tons of games |`109.122.46.55`|
-| Selenite | tons of games | `5.161.118.59`|
+| *May or may not work:* Selenite | tons of games | `5.161.118.69`|
+| *May or may not work:* Tinf0il | Proxy, games, apsp | `129.213.65.72`|
 | Other unblockers have specific tutorials in their discord servers. To find their discord server, go to the [Proxy Discord Servers section](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#caution-many-of-these-servers-will-ban-you-for-leaking-leaks-publicly-use-it-for-private-use-only) in the main Unblockers file.  
 
 10. After putting the IP destination to your subdomain, press "save." Complete the captcha. 
-11. Wait a couple minutes for your site to register and go to the link you created!  
+11. Wait a couple minutes for your site to register and go to the link you created!
+12. OPTIONAL: If you want, you can donate your created, working link in this [form](https://forms.gle/FaHsGQxFTnZ6uSvn9)! I will put the link in the mainUnblockers.md file, this will be highly appreciated!
 
 ### Make links with Vercel
 Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
